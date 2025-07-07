@@ -1,0 +1,26 @@
+The OSI model (or Open Systems Interconnection Model) is an essential model used in networking.  
+This critical model provides a framework dictating how all networked devices will send, receive and interpret data.
+
+One of the main benefits of the OSI model is that devices can have different functions and designs on a network while communicating with other devices. 
+Data sent across a network that follows the uniformity of the OSI model can be understood by other devices.
+
+The OSI model consists of seven layers which are illustrated in the down below. Each layer has a different set of responsibilities and is arranged from Layer 7 to Layer 1.
+
+At every individual layer that data travels through, specific processes take place, and pieces of information are added to this data, 
+which is what we'll come to discuss in the upcoming tasks within this room. 
+However, for now, we only need to understand that this process is called encapsulation.
+
+The OSI Model layers: 
+
+7 --> Application
+6 --> Presentation
+5 --> Session
+4 --> Transport
+3 --> Network
+2 --> Data Link Layer
+1 --> Physical Layer.
+
+The numbering starts with the physical layer being layer 1, while the top layer, the application layer, is layer 7. 
+To help you remember the layers from bottom to top, you can use a mnemonic such as “Please Do Not Throw Spinach Pizza Away.” 
+You can check the Internet for other easy-to-remember acronyms if this helps you memorise them. 
+Remembering the OSI model layers with their layer numbers is important; otherwise, you will struggle to understand terms such as “layer 3 switch” or “layer 7 firewall.”
